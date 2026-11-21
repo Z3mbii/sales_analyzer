@@ -1,0 +1,104 @@
+{
+    "processed_records": 284988,
+    "total_revenue": 6747646115.1,
+    "total_items": 2990744,
+    "average_order_value": 2256.18,
+    "revenue_by_region": {
+        "Dolnośląskie": 1115323380.14,
+        "Mazowieckie": 1119985946.63,
+        "Małopolskie": 1120666825.12,
+        "Pomorskie": 1133815289.02,
+        "Wielkopolskie": 1135138800.52,
+        "Śląskie": 1122715873.67
+    },
+    "revenue_by_category": {
+        "Dom i Ogród": 1351426554.07,
+        "Elektronika": 1343785096.92,
+        "Gaming": 1348736801.17,
+        "Odzież": 1351359719.06,
+        "Sport": 1352337943.88
+    },
+    "anomalies_count": 15059,
+    "top_anomalies": [
+        {
+            "transaction_id": "TX-0082235",
+            "category": "Elektronika",
+            "region": "Małopolskie",
+            "total_amount": 90000.0,
+            "tax_office": "718",
+            "email_domain": "wp.pl"
+        },
+        {
+            "transaction_id": "TX-0134732",
+            "category": "Elektronika",
+            "region": "Śląskie",
+            "total_amount": 89992.8,
+            "tax_office": "212",
+            "email_domain": "firma.pl"
+        },
+        {
+            "transaction_id": "TX-0247317",
+            "category": "Gaming",
+            "region": "Dolnośląskie",
+            "total_amount": 89985.2,
+            "tax_office": "458",
+            "email_domain": "onet.pl"
+        },
+        {
+            "transaction_id": "TX-0093876",
+            "category": "Odzież",
+            "region": "Wielkopolskie",
+            "total_amount": 89972.6,
+            "tax_office": "427",
+            "email_domain": "sklep.edu.pl"
+        },
+        {
+            "transaction_id": "TX-0163058",
+            "category": "Sport",
+            "region": "Śląskie",
+            "total_amount": 89968.0,
+            "tax_office": "852",
+            "email_domain": "onet.pl"
+        },
+        {
+            "transaction_id": "TX-0101618",
+            "category": "Gaming",
+            "region": "Małopolskie",
+            "total_amount": 89960.2,
+            "tax_office": "739",
+            "email_domain": "onet.pl"
+        },
+        {
+            "transaction_id": "TX-0120639",
+            "category": "Gaming",
+            "region": "Małopolskie",
+            "total_amount": 89959.6,
+            "tax_office": "615",
+            "email_domain": "onet.pl"
+        },
+        {
+            "transaction_id": "TX-0197413",
+            "category": "Dom i Ogród",
+            "region": "Wielkopolskie",
+            "total_amount": 89944.4,
+            "tax_office": "817",
+            "email_domain": "gmail.com"
+        },
+        {
+            "transaction_id": "TX-0116950",
+            "category": "Dom i Ogród",
+            "region": "Wielkopolskie",
+            "total_amount": 89943.8,
+            "tax_office": "637",
+            "email_domain": "sklep.edu.pl"
+        },
+        {
+            "transaction_id": "TX-0162080",
+            "category": "Dom i Ogród",
+            "region": "Wielkopolskie",
+            "total_amount": 89939.8,
+            "tax_office": "305",
+            "email_domain": "gmail.com"
+        }
+    ]
+}

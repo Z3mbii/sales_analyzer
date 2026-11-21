@@ -1,0 +1,11 @@
+=== RAPORT PODSUMOWUJĄCY SPRZEDAŻ ===
+Przetworzone poprawne transakcje: 284988
+Odrzucone błędne rekordy: 15012
+Łączny przychód: 6747646115.10 PLN
+Średnia wartość koszyka: 2256.18 PLN
+Wykryte anomalie cenowe: 15059
+ * Dom i Ogród: 1351426554.07 PLN
+ * Elektronika: 1343785096.92 PLN
+ * Gaming: 1348736801.17 PLN
+ * Odzież: 1351359719.06 PLN
+ * Sport: 1352337943.88 PLN

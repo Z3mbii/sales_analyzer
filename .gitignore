@@ -1,0 +1,9 @@
+__pycashe__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.pytest_cache/
+data/*.csv
+data/*.json
+data/*.txt
